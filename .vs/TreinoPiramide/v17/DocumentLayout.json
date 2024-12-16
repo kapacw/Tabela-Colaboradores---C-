@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kayque.carneiro\\Downloads\\Curso\\C#\\Exerc\u00EDcios\\TreinoPiramide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6E45CE-1BE3-4859-848F-9901B6224B20}|TreinoPiramide\\Piramide.csproj|c:\\users\\kayque.carneiro\\downloads\\curso\\c#\\exerc\u00EDcios\\treinopiramide\\treinopiramide\\calculo\\calculotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E45CE-1BE3-4859-848F-9901B6224B20}|TreinoPiramide\\Piramide.csproj|solutionrelative:treinopiramide\\calculo\\calculotriangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6E45CE-1BE3-4859-848F-9901B6224B20}|TreinoPiramide\\Piramide.csproj|c:\\users\\kayque.carneiro\\downloads\\curso\\c#\\exerc\u00EDcios\\treinopiramide\\treinopiramide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E45CE-1BE3-4859-848F-9901B6224B20}|TreinoPiramide\\Piramide.csproj|solutionrelative:treinopiramide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A6E45CE-1BE3-4859-848F-9901B6224B20}|TreinoPiramide\\Piramide.csproj|c:\\users\\kayque.carneiro\\downloads\\curso\\c#\\exerc\u00EDcios\\treinopiramide\\treinopiramide\\menu\\menutitulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A6E45CE-1BE3-4859-848F-9901B6224B20}|TreinoPiramide\\Piramide.csproj|solutionrelative:treinopiramide\\menu\\menutitulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 304,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculoTriangulo.cs",
+              "DocumentMoniker": "C:\\Users\\kayque.carneiro\\Downloads\\Curso\\C#\\Exerc\u00EDcios\\TreinoPiramide\\TreinoPiramide\\Calculo\\CalculoTriangulo.cs",
+              "RelativeDocumentMoniker": "TreinoPiramide\\Calculo\\CalculoTriangulo.cs",
+              "ToolTip": "C:\\Users\\kayque.carneiro\\Downloads\\Curso\\C#\\Exerc\u00EDcios\\TreinoPiramide\\TreinoPiramide\\Calculo\\CalculoTriangulo.cs",
+              "RelativeToolTip": "TreinoPiramide\\Calculo\\CalculoTriangulo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:28:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuTitulo.cs",
+              "DocumentMoniker": "C:\\Users\\kayque.carneiro\\Downloads\\Curso\\C#\\Exerc\u00EDcios\\TreinoPiramide\\TreinoPiramide\\Menu\\MenuTitulo.cs",
+              "RelativeDocumentMoniker": "TreinoPiramide\\Menu\\MenuTitulo.cs",
+              "ToolTip": "C:\\Users\\kayque.carneiro\\Downloads\\Curso\\C#\\Exerc\u00EDcios\\TreinoPiramide\\TreinoPiramide\\Menu\\MenuTitulo.cs",
+              "RelativeToolTip": "TreinoPiramide\\Menu\\MenuTitulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:28:24.084Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 42,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kayque.carneiro\\Downloads\\Curso\\C#\\Exerc\u00EDcios\\TreinoPiramide\\TreinoPiramide\\Program.cs",
+              "RelativeDocumentMoniker": "TreinoPiramide\\Program.cs",
+              "ToolTip": "C:\\Users\\kayque.carneiro\\Downloads\\Curso\\C#\\Exerc\u00EDcios\\TreinoPiramide\\TreinoPiramide\\Program.cs",
+              "RelativeToolTip": "TreinoPiramide\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T17:13:40.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

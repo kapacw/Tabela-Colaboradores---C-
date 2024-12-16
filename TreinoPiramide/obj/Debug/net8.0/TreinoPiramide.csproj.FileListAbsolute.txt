@@ -1,0 +1,14 @@
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\bin\Debug\net8.0\TreinoPiramide.exe
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\bin\Debug\net8.0\TreinoPiramide.deps.json
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\bin\Debug\net8.0\TreinoPiramide.runtimeconfig.json
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\bin\Debug\net8.0\TreinoPiramide.dll
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\bin\Debug\net8.0\TreinoPiramide.pdb
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\TreinoPiramide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\TreinoPiramide.AssemblyInfoInputs.cache
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\TreinoPiramide.AssemblyInfo.cs
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\TreinoPiramide.csproj.CoreCompileInputs.cache
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\TreinoPiramide.dll
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\refint\TreinoPiramide.dll
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\TreinoPiramide.pdb
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\TreinoPiramide.genruntimeconfig.cache
+C:\Users\kayque.carneiro\Downloads\Curso\C#\Exercícios\TreinoPiramide\TreinoPiramide\obj\Debug\net8.0\ref\TreinoPiramide.dll
